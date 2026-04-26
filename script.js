@@ -1,0 +1,1 @@
+console.log("Aurez site carregado com sucesso.");
